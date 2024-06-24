@@ -1,0 +1,3 @@
+css display
+criar paragrafos para texto embaixo da imagem
+ensinar o pq do search nao ficar em ordem assim como os textos
