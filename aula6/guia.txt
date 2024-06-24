@@ -1,0 +1,7 @@
+Primeiro ensinar a estrutura do html
+ensinar a instar o liveserver(atualizar sozinho a pagina quando salvarmos)
+ensinar a colocar coisas visiveis no body e coisas nao visiveis no head(styles,title) : (no texto)
+ensinar a colocar os itens de css em uma pasta diferente e linkar isso
+ensinar a pegar fontes do site do google
+https://fonts.google.com
+usar roboto(regular e bold)
