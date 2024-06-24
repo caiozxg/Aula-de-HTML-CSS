@@ -1,0 +1,3 @@
+supersimple.dev/exercises/youtube
+ensinar a como colocar imagens
+inspecionar elementos,clicar na imagem e baixar dali
