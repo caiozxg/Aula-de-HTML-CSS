@@ -1,0 +1,15 @@
+Nested layout technique
+muito importante
+existem dois tipos de layouts
+o vertical(demonstrar com inspecionar elemento)
+horizontal
+ao combinarmos os dois podemos criar basicamente qualquer coisa que quisermos
+usar este exemplo de imagem na pasta thumbnails(layout dentro de layout dentro de layout),por isso é chamado de nested
+,que é ninho em ingles
+para praticar,tirar print de um video com o que esta escrito em baixo e ir para o google drawing
+
+
+teremos 2 layouts verticais
+no layout debaixo teremos 2 layouts horizontais
+no layout horizontal da direita teremos 3 layouts verticais
+criaremos 2 divs
