@@ -1,0 +1,3 @@
+css grid será o tema principal
+mudar o background color do video info e logo para gray e mostrar o espaço que vai sobrar entre a logo e as infos do video
+criar uma nova pasta para treinar grid
