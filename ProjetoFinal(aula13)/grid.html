@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Treinando Grid</title>
+</head>
+<body style="padding-bottom: 1000px">
+    <div style="
+    display:grid;
+    grid-template-columns: 100px 100px;
+
+    
+    ">
+        <div style="background-color:lightblue">div 1</div>
+        <div style="background-color:rgb(255, 0, 179)">div 2</div>
+    </div>
+
+    <!-- copiar e colar para fazer outro grid-->
+
+    <div style="
+        display:grid;
+        grid-template-columns: 100px 100px 200px;
+        margin-top:30px;
+        
+        
+        
+        ">
+            <div style="background-color:lightblue">100px</div>
+            <div style="background-color:rgb(255, 0, 179)">100px</div>
+            <div style="background-color:rgb(47, 177, 14)">200px</div>
+            <div style="background-color:rgb(255, 0, 179)">100px</div>
+    </div>
+
+
+
+    <!-- criar outra para treinar-->
+<!--1fr significa que vai tomar o resto da linha q sobrar-->
+    <div style="
+        display:grid;
+        grid-template-columns: 100px 1fr; 
+        margin-top:30px;
+        
+        
+        ">
+            <div style="background-color:lightblue">100px</div>
+            
+            <div style="background-color:rgb(47, 177, 14)">1fr</div>
+            
+    </div>
+    <!-- criar outra para treinar-->
+     <!--quando tempos mais de 1 fr,o numero que esta na frente irá indicar quantos % da pagina cada um vai tomar-->
+    <div style="
+    display:grid;
+    grid-template-columns: 100px 1fr 2fr; 
+    margin-top:30px;
+    
+    
+    ">
+        <div style="background-color:lightblue">100px</div>
+        
+        <div style="background-color:rgb(47, 177, 14)">1fr</div>
+        <div style="background-color:rgb(0, 4, 255)">2fr</div>
+        
+</div>
+<!-- voltar para o codigo principal-->
+ <!--voltar pra ca-->
+
+ <div style="
+ display:grid;
+ grid-template-columns: 1fr 1fr 1fr; 
+ margin-top:30px;
+ column-gap:20px;
+ row-gap:40px;
+ 
+ 
+ ">
+     <div style="background-color:lightblue;height:200px;">1fr</div>
+     
+     <div style="background-color:rgb(47, 177, 14);height:200px;">1fr</div>
+     <div style="background-color:rgb(24, 0, 240);height:200px;">1fr</div>
+     <div style="background-color:lightblue;height:200px;">1fr</div>
+     
+     <div style="background-color:rgb(47, 177, 14);height:200px;">1fr</div>
+     <div style="background-color:rgb(24, 0, 240);height:200px;">1fr</div>
+</div>
+<!--mostrar que se ajusta com o tamanho da tela-->
+<!--voltar para o site-->
+</body>
+</html>
